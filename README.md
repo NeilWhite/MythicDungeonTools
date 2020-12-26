@@ -1,3 +1,5 @@
+Yeah this is just nnogie's addon yoinked under a GPL 2 license because he's a ginoromous man baby
+
 Mythic Dungeon Tools
 ------------------
 ![Main Window](https://i.imgur.com/HFzS0Xl.jpg "x")
@@ -24,7 +26,7 @@ Slash Commands
 - /mythicdungeontools
 - /mdt
 
-Download on curseforge: https://www.curseforge.com/wow/addons/mythic-dungeon-tools
+Download on curseforge: https://www.curseforge.com/wow/addons/mythic-dungeon-tools XD XD XD XD XD 
 
 Support / Social
 ------------------
